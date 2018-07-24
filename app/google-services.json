@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "735828176831",
+    "firebase_url": "https://kyrg-a7c0f.firebaseio.com",
+    "project_id": "kyrg-a7c0f",
+    "storage_bucket": "kyrg-a7c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735828176831:android:4565648fdc2fb4db",
+        "android_client_info": {
+          "package_name": "com.kyrg.joffreymann.kyrgsupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735828176831-m5jlvafvp0jcmdjobn4hqa4arsecsuug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP67cWJIFYbP2YXgMDrmbl94S7lLVLxhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
